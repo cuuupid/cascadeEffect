@@ -1,0 +1,2 @@
+The SMUX pragma is bad. it's supposed to be
+i2ccustom
